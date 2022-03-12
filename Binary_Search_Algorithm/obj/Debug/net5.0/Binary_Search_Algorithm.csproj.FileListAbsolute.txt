@@ -1,0 +1,16 @@
+C:\Users\topu_\source\repos\Binary_Search_Algorithm\Binary_Search_Algorithm\bin\Debug\net5.0\Binary_Search_Algorithm.exe
+C:\Users\topu_\source\repos\Binary_Search_Algorithm\Binary_Search_Algorithm\bin\Debug\net5.0\Binary_Search_Algorithm.deps.json
+C:\Users\topu_\source\repos\Binary_Search_Algorithm\Binary_Search_Algorithm\bin\Debug\net5.0\Binary_Search_Algorithm.runtimeconfig.json
+C:\Users\topu_\source\repos\Binary_Search_Algorithm\Binary_Search_Algorithm\bin\Debug\net5.0\Binary_Search_Algorithm.runtimeconfig.dev.json
+C:\Users\topu_\source\repos\Binary_Search_Algorithm\Binary_Search_Algorithm\bin\Debug\net5.0\Binary_Search_Algorithm.dll
+C:\Users\topu_\source\repos\Binary_Search_Algorithm\Binary_Search_Algorithm\bin\Debug\net5.0\ref\Binary_Search_Algorithm.dll
+C:\Users\topu_\source\repos\Binary_Search_Algorithm\Binary_Search_Algorithm\bin\Debug\net5.0\Binary_Search_Algorithm.pdb
+C:\Users\topu_\source\repos\Binary_Search_Algorithm\Binary_Search_Algorithm\obj\Debug\net5.0\Binary_Search_Algorithm.csproj.AssemblyReference.cache
+C:\Users\topu_\source\repos\Binary_Search_Algorithm\Binary_Search_Algorithm\obj\Debug\net5.0\Binary_Search_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\topu_\source\repos\Binary_Search_Algorithm\Binary_Search_Algorithm\obj\Debug\net5.0\Binary_Search_Algorithm.AssemblyInfoInputs.cache
+C:\Users\topu_\source\repos\Binary_Search_Algorithm\Binary_Search_Algorithm\obj\Debug\net5.0\Binary_Search_Algorithm.AssemblyInfo.cs
+C:\Users\topu_\source\repos\Binary_Search_Algorithm\Binary_Search_Algorithm\obj\Debug\net5.0\Binary_Search_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\topu_\source\repos\Binary_Search_Algorithm\Binary_Search_Algorithm\obj\Debug\net5.0\Binary_Search_Algorithm.dll
+C:\Users\topu_\source\repos\Binary_Search_Algorithm\Binary_Search_Algorithm\obj\Debug\net5.0\ref\Binary_Search_Algorithm.dll
+C:\Users\topu_\source\repos\Binary_Search_Algorithm\Binary_Search_Algorithm\obj\Debug\net5.0\Binary_Search_Algorithm.pdb
+C:\Users\topu_\source\repos\Binary_Search_Algorithm\Binary_Search_Algorithm\obj\Debug\net5.0\Binary_Search_Algorithm.genruntimeconfig.cache
